@@ -9,7 +9,7 @@
 ## Communication
 - Email — write a big message instead of chat or call
 - [OBS](https://obsproject.com/) — record your screen and send video, instead of call
-- [Discord](https://discord.com/) — 
+- [Discord](https://discord.com/) — zoomer slack, skype and forum
 - [Google Meet](https://meet.google.com/) — no bullshit link to video call
 
 ## Design
