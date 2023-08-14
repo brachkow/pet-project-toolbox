@@ -18,12 +18,14 @@
 
 ## Frontend
 - [Vue](https://vuejs.org/) — фреймворк не для олимпиадников!
-  - [How I use vue to build my projects](https://github.com/brachkow/vue-template).
+  - [How I use vue to build my projects](https://github.com/brachkow/vue-template)
+  - [VueUse](https://vueuse.org/guide/) — hooks for Vue, that cover a lot of complicated browser APIs
 - [AutoAnimate](https://auto-animate.formkit.com/) — drop in animations for any framework
 - [TipTap](https://tiptap.dev/) - toolkit for building text editors
 
 ## Backend as serivce
 - [Firebase](https://firebase.google.com/) — auth, db, storage and etc, with large free plan
+  - [VueUse Firebase](https://vueuse.org/functions.html#category=%40Firebase) — reactive bindings for Auth and Firestore 
 - [JSON Bin](https://jsonbin.io/) — json storage with api
 - [Cloudlfare Wokers](https://workers.cloudflare.com/) — serverless functions that work inside workers
   - [Workers KV](https://developers.cloudflare.com/workers/wrangler/workers-kv/)
