@@ -25,7 +25,7 @@
   - [dayjs](https://day.js.org/) — for working with dates
   - lodash
   - [faker](https://fakerjs.dev/) — generate fake data for mocks
-— Libraries for comlicated stuff
+- Libraries for comlicated stuff
   - [TipTap](https://tiptap.dev/) - toolkit for building text editors
   - [i18n](https://github.com/intlify/vue-i18n-next) — for building multi language apps
   - [Leaflet](https://github.com/vue-leaflet/vue-leaflet) — for maps
