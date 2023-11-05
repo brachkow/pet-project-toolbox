@@ -1,6 +1,7 @@
 # pet-project-toolbox
 
 - [Vercel](https://vercel.com) — place to deploy frontend apps
+- [Cloudflare Registar](https://www.cloudflare.com/products/registrar/) — cheap domain names
 
 ## Management
 - [Basecamp](basecamp.com/) — remote-centered project managment tool, best if you have team/money
