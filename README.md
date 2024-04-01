@@ -25,6 +25,7 @@
   - [How I use vue to build my projects](https://github.com/brachkow/vue-template)
   - [VueUse](https://vueuse.org/guide/) — hooks for Vue, that cover a lot of complicated browser APIs
 - [AutoAnimate](https://auto-animate.formkit.com/) — drop-in animations for any framework
+- [Iconify](https://iconify.design/) — all icon packs as API
 - Libraries you need in 80% of cases
   - [dayjs](https://day.js.org/) — for working with dates
   - [lodash-es](https://www.npmjs.com/package/lodash-es) — lodash, but properly modular
