@@ -43,11 +43,12 @@
 - [Drizzle ORM](https://orm.drizzle.team/docs/overview) — easy to use ORM for any DB
 - [Passport.js JWT](https://www.passportjs.org/packages/passport-jwt/) — JWT auth
 
-## Backend as serivce
+## Backend as service
 - [Firebase](https://firebase.google.com/) — auth, db, storage and etc, with a large free plan
   - [VueFire](https://vuefire.vuejs.org/) — reactive bindings for Auth and Firestore 
-- [JSON Bin](https://jsonbin.io/) — json storage with api
+- [JSON Bin](https://jsonbin.io/) — json storage with API
 - [Cloudlfare Wokers](https://workers.cloudflare.com/) — serverless functions that work inside workers
   - [Workers KV](https://developers.cloudflare.com/workers/wrangler/workers-kv/)
 - [Supabase](https://supabase.com/) — Firebase but Open Source and Postgres
-- [Neon Tech](https://neon.tech/) — serverless Postgres
+- [Neon](https://neon.tech/) — serverless Postgres
+- [Hono](https://hono.dev/concepts/motivation) — express for serverless backend
