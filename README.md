@@ -37,6 +37,7 @@
 - Classless CSS
   - [pico.css](https://picocss.com/)
   - [awsm.css](https://www.npmjs.com/package/@nuxtjs/svg)
+- [htmx](https://htmx.org/) — easy way to write frontend on backend. Plays nice with a serverless backend.
 
 ## Backend
 - Express
